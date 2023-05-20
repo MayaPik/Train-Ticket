@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.navBar {
+  background-color: rgb(83, 32, 101);
+  padding: 0.2em;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.graph-container,
+.container {
+  height: 90vh;
+  width: 100vw;
+}
